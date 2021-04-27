@@ -1,0 +1,31 @@
+{
+  "name": "frontend-project-lvl3",
+  "description": "[![Maintainability](https://api.codeclimate.com/v1/badges/d60f15b1f5f1facc303f/maintainability)](https://codeclimate.com/github/alextula26/frontend-project-lvl3/maintainability)",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextula26/frontend-project-lvl3.git"
+  },
+  "author": "alextula26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextula26/frontend-project-lvl3/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/alextula26/frontend-project-lvl3#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
